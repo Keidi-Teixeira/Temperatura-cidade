@@ -14,15 +14,7 @@ using OpenQA.Selenium.Chrome;
 namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
-    {/* 
-     acessar url https://grupolhasa.com.br/portal/acessar
-     acessar sistema
-     email: keidi@grupolhasa.com.br
-     senha: 123456
-     https://grupolhasa.com.br/cadastro/proposta_operacional/index
-
-     
-        */
+    {
         public Form1()
         {
             InitializeComponent();
