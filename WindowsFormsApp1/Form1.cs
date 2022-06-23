@@ -46,7 +46,7 @@ namespace WindowsFormsApp1
             string temp = drv.FindElement(By.Id("wob_tm")).Text;
             string hora = drv.FindElement(By.ClassName("wob_dts")).Text;
             
-            MessageBox.Show("A temperatura é",temp +  "e a hora é" + hora);
+            MessageBox.Show("A temperatura é " + temp + "graus e a hora é " + hora);
 
         }
 
